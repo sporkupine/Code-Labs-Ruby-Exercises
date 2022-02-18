@@ -9,7 +9,8 @@ Here is a list of ruby terms and definitions used in class.
 <em>**What's the difference between a local variable, constant variable, and a global variable?**</em>
   - A local variable is only accessible within the block of its initialization. <br>
   - a constant variable will always start with a capital letter. Constants are used for values that are not supposed to be changed.
-  - a global variable will always start with a $. Global variables have global scope, and are available from anywhere within a program. <br>
+  - a global variable will always start with a $. Global variables have global scope, and are available from anywhere within a program.
+<br>
 <em>**What does scope mean?**</em> - INSERT DEFINITION HERE <br>
 <em>**Constant Variable**</em> - INSERT DEFINITION HERE <br>
 <em>**Method**</em> - INSERT DEFINITION HERE <br>
