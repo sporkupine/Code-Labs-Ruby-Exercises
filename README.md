@@ -11,8 +11,8 @@ Here is a list of ruby terms and definitions used in class.
   - a constant variable will always start with a capital letter. Constants are used for values that are not supposed to be changed.
   - a global variable will always start with a $. Global variables have global scope, and are available from anywhere within a program.
 <br>
-<em>**What does scope mean?**</em> - scope is the "region" of a program in which a variable or method can be utilized. <br>
 
+<em>**What does scope mean?**</em> - scope is the "region" of a program in which a variable or method can be utilized. <br>
 <em>**Method**</em> - a set of expressions that returns a value. similar to functions in JavaScript. <br>
 <em>**IRB**</em> - Interactive RuBy. IRB is a REPL (Read, Evaluate, Print, ,Loop) program that can be accessed from the terminal. <br>
 <em>**Operators**</em> - An operator is a symbol that represents an operation to be performed with one or more operand.  <br>
