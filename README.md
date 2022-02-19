@@ -26,7 +26,7 @@ Here is a list of ruby terms and definitions used in class.
 <em>**What is a data structure? - INSERT DEFINTION HERE <rb>
 <em>**Arrays**</em> - INSERT DEFINITION HERE <br>
 <em>**Loops**</em> - INSERT DEFINITION HERE <br>
-<em>**Recursion**</em> - INSERT DEFINITION HERE <br>
+<em>**Recursion**</em> - Calling a function inside itself to create a "recursive" loop. When used unintentionally this can cause memory leaks and application crashes. <br>
 
 ## Part 3
 
