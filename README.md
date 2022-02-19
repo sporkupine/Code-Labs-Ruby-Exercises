@@ -22,11 +22,11 @@ Here is a list of ruby terms and definitions used in class.
 ## Part 2
 <em>**Conditional**</em> - INSERT DEFINITION HERE <br>
 <em>**The difference between else and elsif**</em> - INSERT ANSWER HERE <br>
-<em>**What are Case/When statements? - INSERT DEfINNITION HERE <br>
-<em>**What is a data structure? - INSERT DEFINTION HERE <rb>
+<em>**What are Case/When statements? - INSERT DEFINITION HERE <br>
+<em>**What is a data structure? - INSERT DEFINITION HERE <br>
 <em>**Arrays**</em> - Indexed lists of data used for many programming applications. <br>
 <em>**Loops**</em> - INSERT DEFINITION HERE <br>
-<em> **Recursion** </em> - Calling a function inside itself to create a "recursive" loop. When used unintentionally this can cause memory leaks and application crashes. <br>
+<em>**Recursion**</em> - Calling a function inside itself to create a "recursive" loop. When used unintentionally this can cause memory leaks and application crashes. <br>
 
 ## Part 3
 
