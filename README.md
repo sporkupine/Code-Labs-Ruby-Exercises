@@ -20,6 +20,13 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Gem**</em> - a gem is a library of code that can be imported and used in a Ruby project. <br>
 
 ## Part 2
+<em>**Conditional**</em> - INSERT DEFINITION HERE <br>
+<em>**The difference between else and elsif**</em> - INSERT ANSWER HERE <br>
+<em>**What are Case/When statements? - INSERT DEfINNITION HERE <br>
+<em>**What is a data structure? - INSERT DEFINTION HERE <rb>
+<em>**Arrays**</em> - INSERT DEFINITION HERE <br>
+<em>**Loops**</em> - INSERT DEFINITION HERE <br>
+<em>**Recursion**</em> - INSERT DEFINITION HERE <br>
 
 ## Part 3
 
