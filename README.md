@@ -25,7 +25,7 @@ Here is a list of ruby terms and definitions used in class.
 <em>**What are Case/When statements? - INSERT DEFINITION HERE <br>
 <em>**What is a data structure? - INSERT DEFINITION HERE <br>
 <em>**Arrays**</em> - Indexed lists of data used for many programming applications. <br>
-<em>**Loops**</em> - INSERT DEFINITION HERE <br>
+<em>**Loops**</em> - a function or block of code that is called multiple times, often iterating over an array or a hash and modifying each item inside. <br>
 <em>**Recursion**</em> - Calling a function inside itself to create a "recursive" loop. When used unintentionally this can cause memory leaks and application crashes. <br>
 
 ## Part 3
