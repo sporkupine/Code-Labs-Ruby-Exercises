@@ -10,6 +10,7 @@ Here is a list of ruby terms and definitions used in class.
   - A local variable is only accessible within the block of its initialization.
   - a constant variable will always start with a capital letter. Constants are used for values that are not supposed to be changed.
   - a global variable will always start with a $. Global variables have global scope, and are available from anywhere within a program.
+ 
 <em>**What does scope mean?**</em> - scope is the "region" of a program in which a variable or method can be utilized. <br>
 <em>**Method**</em> - a set of expressions that returns a value. similar to functions in JavaScript. <br>
 <em>**IRB**</em> - Interactive RuBy. IRB is a REPL (Read, Evaluate, Print, ,Loop) program that can be accessed from the terminal. <br>
