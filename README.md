@@ -11,7 +11,6 @@ Here is a list of ruby terms and definitions used in class.
   - a constant variable will always start with a capital letter. Constants are used for values that are not supposed to be changed.
   - a global variable will always start with a $. Global variables have global scope, and are available from anywhere within a program.
 <br>
-
 <em>**What does scope mean?**</em> - scope is the "region" of a program in which a variable or method can be utilized. <br>
 <em>**Method**</em> - a set of expressions that returns a value. similar to functions in JavaScript. <br>
 <em>**IRB**</em> - Interactive RuBy. IRB is a REPL (Read, Evaluate, Print, ,Loop) program that can be accessed from the terminal. <br>
@@ -22,11 +21,11 @@ Here is a list of ruby terms and definitions used in class.
 ## Part 2
 <em>**Conditional**</em> - INSERT DEFINITION HERE <br>
 <em>**The difference between else and elsif**</em> - INSERT ANSWER HERE <br>
-<em>**What are Case/When statements? - INSERT DEFINITION HERE <br>
-<em>**What is a data structure? - INSERT DEFINITION HERE <br>
+<em>**What are Case/When statements?** - INSERT DEFINITION HERE <br>
+<em>**What is a data structure?** - INSERT DEFINITION HERE <br>
 <em>**Arrays**</em> - Indexed lists of data used for many programming applications. <br>
 <em>**Loops**</em> - a function or block of code that is called multiple times, often iterating over an array or a hash and modifying each item inside. <br>
-<em>**Recursion**</em> - Calling a function inside itself to create a "recursive" loop. When used unintentionally this can cause memory leaks and application crashes. <br>
+<em>**Recursion** - Calling a function inside itself to create a "recursive" loop. When used unintentionally this can cause memory leaks and application crashes. <br>
 
 ## Part 3
 
