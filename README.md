@@ -7,7 +7,7 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Data Type**</em> - classification of data that defines a set of rules within a program or system for data handling. <br>
 <em>**Variable**</em> - a reference to a value in memory <br>
 <em>**What's the difference between a local variable, constant variable, and a global variable?**</em>
-  - A local variable is only accessible within the block of its initialization. <br>
+  - A local variable is only accessible within the block of its initialization.
   - a constant variable will always start with a capital letter. Constants are used for values that are not supposed to be changed.
   - a global variable will always start with a $. Global variables have global scope, and are available from anywhere within a program.
 <br>
