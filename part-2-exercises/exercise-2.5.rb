@@ -15,7 +15,7 @@ users = [
 
 x = 0
 while x < users.length do
-    if users[x][:name].match("Jimmy")
+    if users[x][:name].include?("Jimmy")
         puts "My name and age are confidential."
         x += 1
     else
