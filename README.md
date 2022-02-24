@@ -28,5 +28,11 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Recursion**</em> - Calling a function inside itself to create a "recursive" loop. When used unintentionally this can cause memory leaks and application crashes. <br>
 
 ## Part 3
+<em>**What is Object Oriented Programming?**</em> - INSERT DEFINITION HERE <br>
+<em>**Class inheritance**</em> - INSERT DEfINNITION HERE <br>
+<em>**What are getters and setters?**</em> - INSERT ANSWER HERE <br>
+<em>**Difference between class variables and instance variables and class attributes?**</em> - INSERT ANSWER HERE <br>
+<em>**What does self signify in a class?**</em> - INSERT ANSWER HERE <br>
+<em>**Modules</em> - INSERT DEfINNITION HERE <br>
 
 ## Part 4
