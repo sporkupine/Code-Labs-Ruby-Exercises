@@ -19,10 +19,10 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Gem**</em> - a gem is a library of code that can be imported and used in a Ruby project. <br>
 
 ## Part 2
-<em>**Conditional**</em> - INSERT DEFINITION HERE <br>
-<em>**The difference between else and elsif**</em> - INSERT ANSWER HERE <br>
-<em>**What are Case/When statements?**</em> - INSERT DEFINITION HERE <br>
-<em>**What is a data structure?**</em> - INSERT DEFINITION HERE <br>
+<em>**Conditional**</em> - Any expression that evaluates to true or false. <br>
+<em>**The difference between else and elsif**</em> - elsif provides a second if statement, else only handles cases when if statement evaluates to false <br>
+<em>**What are Case/When statements?**</em> - Provides a variable and a set of conditions, with blocks of code to run on the variable when the conditions are met. <br>
+<em>**What is a data structure?**</em> - any of a number of specialized means of storing and accessing data within a computer. <br>
 <em>**Arrays**</em> - Indexed lists of data used for many programming applications. <br>
 <em>**Loops**</em> - a function or block of code that is called multiple times, often iterating over an array or a hash and modifying each item inside. <br>
 <em>**Recursion**</em> - Calling a function inside itself to create a "recursive" loop. When used unintentionally this can cause memory leaks and application crashes. <br>
