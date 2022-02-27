@@ -22,3 +22,11 @@
 # Input: nums = [3,3], target = 6
 # Output: [0,1] 
 
+
+# probably going to try a hash map
+
+# for each in array
+# check if hash map empty, if so push value to hash map
+# check if target - value == any number in hash map,
+   # if so, return value and number, get indices
+# if no matches, push value to hash map and continue loop
