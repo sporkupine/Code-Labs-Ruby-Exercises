@@ -28,11 +28,11 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Recursion**</em> - Calling a function inside itself to create a "recursive" loop. When used unintentionally this can cause memory leaks and application crashes. <br>
 
 ## Part 3
-<em>**What is Object Oriented Programming?**</em> - INSERT DEFINITION HERE <br>
-<em>**Class inheritance**</em> - INSERT DEfINNITION HERE <br>
-<em>**What are getters and setters?**</em> - INSERT ANSWER HERE <br>
-<em>**Difference between class variables and instance variables and class attributes?**</em> - INSERT ANSWER HERE <br>
-<em>**What does self signify in a class?**</em> - INSERT ANSWER HERE <br>
-<em>**Modules</em> - INSERT DEfINNITION HERE <br>
+<em>**What is Object Oriented Programming?**</em> - A programming paradigm that organizes software design around data in objects rather than functions and logic. <br>
+<em>**Class inheritance**</em> - the process by which a class "inherits" the attributes and methods of another class, often a "parent" class. <br>
+<em>**What are getters and setters?**</em> - Methods used for accessing ("get") or updating ("set") data within an object. <br>
+<em>**Difference between class variables and instance variables and class attributes?**</em> - class variables have only one copy of the variable to be shared within each instance of a class. Instance variables are available within each individual instance of their parent class. <br>
+<em>**What does self signify in a class?**</em> - Self works like "this" in JavaScript. It is a keyword that gives you access to the currently referenced object. <br>
+<em>**Modules</em> - a Module is a self-contained set of code containing one or more routines. Modules can be used to keep a program organized and code reusable. <br>
 
 ## Part 4
