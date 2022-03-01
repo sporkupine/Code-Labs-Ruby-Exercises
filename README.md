@@ -36,3 +36,6 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Modules</em> - a Module is a self-contained set of code containing one or more routines. Modules can be used to keep a program organized and code reusable. <br>
 
 ## Part 4
+<em>**Bundler**<em> - INSERT DEFINITION HERE <br>
+<em>**Gemfile**<em> - INSERT DEFINITION HERE <br>
+<em>**Bcrypt**<em> - INSERT DEFINITION HERE <br>

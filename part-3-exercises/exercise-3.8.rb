@@ -23,6 +23,7 @@
 # Output: [0,1] 
 
 
+
 # probably going to try a hash map
 
 # for each in array
