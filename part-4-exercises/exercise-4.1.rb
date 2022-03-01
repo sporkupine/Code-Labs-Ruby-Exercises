@@ -18,7 +18,7 @@ class User
     # Instance Methods
     # checks to see if the user is "logged in"
     def logged_in?
-      return self.logged_in
+      @logged_in
     end
 
     # salts password
@@ -33,12 +33,14 @@ class User
     end
         # "logs in user"
     def self.login(username, password)
-      self.all.each do |user|
-        if username == user.username && password == user.password
+      all.each do |user|
+        if (user.username == username && user.password == password)
           user.logged_in = true
           return user
         end
-        return nil if user.logged_in? == false
+        if user.logged_in? == false
+          return nil
+        end  
       end
     end
 end
