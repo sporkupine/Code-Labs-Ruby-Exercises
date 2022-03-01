@@ -33,15 +33,15 @@ class User
     end
         # "logs in user"
     def self.login(username, password)
+      current_user = nil
       all.each do |user|
         if (user.username == username && user.password == password)
           user.logged_in = true
-          return user
+          current_user = user
+          break
         end
-        if user.logged_in? == false
-          return nil
-        end  
       end
+      return current_user
     end
 end
 
