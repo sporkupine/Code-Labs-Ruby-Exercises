@@ -1,8 +1,3 @@
-require 'bundler/inline'
-gemfile do
-    source 'http://rubygems.org'
-    gem 'bcrypt'
-end
 require 'bcrypt'
 
 class User
@@ -14,7 +9,7 @@ class User
     @@users = []
 
     def initialize(username, password)
-        @password = password
+        @password = create_hash_digest(password)
         @username = username
         @logged_in = false
         @@users << self
@@ -23,10 +18,13 @@ class User
     # Instance Methods
     # checks to see if the user is "logged in"
     def logged_in?
+      return self.logged_in
     end
 
     # salts password
     def create_hash_digest(password)
+      BCrypt::Password.create(password)
+      password
     end
 
     # Class Methods
@@ -35,6 +33,13 @@ class User
     end
         # "logs in user"
     def self.login(username, password)
+      self.all.each do |user|
+        if username == user.username && password == user.password
+          user.logged_in = true
+          return user
+        end
+        return nil if user.logged_in? == false
+      end
     end
 end
 
@@ -50,10 +55,21 @@ isLoggedIn = false
 tries = 0;
 
 while (isLoggedIn == false)
-
-    # Attempts
+  puts "What is your username?"
+  username = gets.chomp
+  puts "What is your password?"
+  password = gets.chomp
+  user = User.login(username, password)
+  if user
+    puts "Authentication successful."
+     isLoggedIn = true
+  else
     tries += 1
+    puts "Authentication unsuccessful. Please try again."
     puts "Attempt #{tries} / 3"
+  end
+    # Attempts
+
     if(tries == 3)
         puts "Too many attempts, try again later"
         break;
